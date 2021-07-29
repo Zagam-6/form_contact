@@ -23,10 +23,10 @@ body{
 }
 
 .wrapper header {
-  font-size: 15px; /* asta schimba marimea propozitiei Enter your details*/
-  font-weight: 600; /* asta nu stiu ce face*/
-  padding: 20px 30px; /* asta a facut spatiul la enter your details*/
-  border-bottom: 20px solid rosybrown ; /* asta a facut linia gri*/
+  font-size: 15px; 
+  font-weight: 600; 
+  padding: 20px 30px; 
+  border-bottom: 20px solid rosybrown ; 
 }
 
 .wrapper form{
